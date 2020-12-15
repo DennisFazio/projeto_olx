@@ -1,0 +1,14 @@
+INICIO DAS EDIÇÕES DA EMPRESA ViajaNet:   2020-11-17T11:18:02-03:00
+Editada a pagina Trabalhe Conosco.
+Editada a pagina Aplicativos.
+FINAL DAS EDIÇÕES
+TOTAL DE HOTSITES EDITADOS: 2.
+INICIO DAS SINCRONIZAÇÕES
+Sincronizada a LP: trabalhe-conosco.
+Texto no Select:   trabalhe-conosco.
+------------------------------
+Sincronizada a LP: especial/aplicativos.
+Texto no Select:   especial/aplicativos.
+------------------------------
+FINAL DAS EDIÇÕES E SINCRONIZAÇÕES DA EMPRESA viajanet:   2020-11-17T11:18:20-03:00
+TOTAL DE HOTSITES ATUALIZADOS: 2.

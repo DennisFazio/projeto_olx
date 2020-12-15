@@ -1,0 +1,10 @@
+*.DS_Store
+Gemfile.lock
+*.log
+logs/json/*.json
+logs/html/*.html
+logs/screenshots/test_falhou/*.png
+logs/screenshots/test_passou/*.png
+features/specifications/teste.feature
+features/step_definitions/teste.rb
+features/support/generators/fixtures/usuario.yml

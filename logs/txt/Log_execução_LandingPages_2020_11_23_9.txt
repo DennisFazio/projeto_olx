@@ -1,0 +1,194 @@
+INICIANDO A SINCRONIZAÇÃO: 2020-11-23T09:42:09-03:00
+Sincronizada a LP: azul.
+Texto no Select:   azul.
+------------------------------
+Sincronizada a LP: latam.
+Texto no Select:   latam.
+------------------------------
+Sincronizada a LP: gol.
+Texto no Select:   gol.
+------------------------------
+Sincronizada a LP: voepass.
+Texto no Select:   voepass.
+------------------------------
+Sincronizada a LP: aerolineas-argentinas.
+Texto no Select:   aerolineas-argentinas.
+------------------------------
+Erro ao sincronizar a LP: aeromexico
+Sincronizada a LP: aerosur.
+Texto no Select:   aerosur.
+------------------------------
+Sincronizada a LP: aigle-azur.
+Texto no Select:   aigle-azur.
+------------------------------
+Sincronizada a LP: air-canada.
+Texto no Select:   air-canada.
+------------------------------
+Sincronizada a LP: linhas-aereas/internacionais/air-berlin.
+Texto no Select:   linhas-aereas/internacionais/air-berlin.
+------------------------------
+Sincronizada a LP: air-china.
+Texto no Select:   air-china.
+------------------------------
+Sincronizada a LP: air-france.
+Texto no Select:   air-france.
+------------------------------
+Sincronizada a LP: linhas-aereas/internacionais/air-india.
+Texto no Select:   linhas-aereas/internacionais/air-india.
+------------------------------
+Sincronizada a LP: linhas-aereas/internacionais/air-italy.
+Texto no Select:   linhas-aereas/internacionais/air-italy.
+------------------------------
+Sincronizada a LP: american-airlines.
+Texto no Select:   american-airlines.
+------------------------------
+Sincronizada a LP: boa.
+Texto no Select:   boa.
+------------------------------
+Sincronizada a LP: british-airways.
+Texto no Select:   british-airways.
+------------------------------
+Sincronizada a LP: cabo-verde-airlines.
+Texto no Select:   cabo-verde-airlines.
+------------------------------
+Sincronizada a LP: copa-airlines.
+Texto no Select:   copa-airlines.
+------------------------------
+Sincronizada a LP: delta-airlines.
+Texto no Select:   delta-airlines.
+------------------------------
+Sincronizada a LP: emirates.
+Texto no Select:   emirates.
+------------------------------
+Sincronizada a LP: iberia.
+Texto no Select:   iberia.
+------------------------------
+Sincronizada a LP: linhas-aereas/internacionais/insel-air.
+Texto no Select:   linhas-aereas/internacionais/insel-air.
+------------------------------
+Sincronizada a LP: klm.
+Texto no Select:   klm.
+------------------------------
+Sincronizada a LP: korean-air.
+Texto no Select:   korean-air.
+------------------------------
+Sincronizada a LP: lufthansa.
+Texto no Select:   lufthansa.
+------------------------------
+Sincronizada a LP: air-new-zealand.
+Texto no Select:   air-new-zealand.
+------------------------------
+Sincronizada a LP: qantas.
+Texto no Select:   qantas.
+------------------------------
+Sincronizada a LP: singapore-airlines.
+Texto no Select:   singapore-airlines.
+------------------------------
+Sincronizada a LP: south-african.
+Texto no Select:   south-african.
+------------------------------
+Sincronizada a LP: swiss.
+Texto no Select:   swiss.
+------------------------------
+Sincronizada a LP: linhas-aereas/internacionais/us-airways.
+Texto no Select:   linhas-aereas/internacionais/us-airways.
+------------------------------
+Sincronizada a LP: passagens-aereas/buenos-aires.
+Texto no Select:   passagens-aereas/buenos-aires.
+------------------------------
+Sincronizada a LP: passagens-aereas/cancun.
+Texto no Select:   passagens-aereas/cancun.
+------------------------------
+Sincronizada a LP: passagens-aereas/eua.
+Texto no Select:   passagens-aereas/eua.
+------------------------------
+Erro ao sincronizar a LP: linhas-aereas/internacionais
+Erro ao sincronizar a LP: passagens-aereas/internacionais/italia
+Sincronizada a LP: passagens-aereas/las-vegas.
+Texto no Select:   passagens-aereas/las-vegas.
+------------------------------
+Sincronizada a LP: passagens-aereas/lisboa.
+Texto no Select:   passagens-aereas/lisboa.
+------------------------------
+Sincronizada a LP: passagens-aereas/londres.
+Texto no Select:   passagens-aereas/londres.
+------------------------------
+Sincronizada a LP: passagens-aereas/miami.
+Texto no Select:   passagens-aereas/miami.
+------------------------------
+Sincronizada a LP: passagens-aereas/new-york.
+Texto no Select:   passagens-aereas/new-york.
+------------------------------
+Sincronizada a LP: passagens-aereas/orlando.
+Texto no Select:   passagens-aereas/orlando.
+------------------------------
+Sincronizada a LP: passagens-aereas/internacionais/portugal.
+Texto no Select:   passagens-aereas/internacionais/portugal.
+------------------------------
+Sincronizada a LP: passagens-aereas/belo-horizonte.
+Texto no Select:   passagens-aereas/belo-horizonte.
+------------------------------
+Sincronizada a LP: passagens-aereas/brasilia.
+Texto no Select:   passagens-aereas/brasilia.
+------------------------------
+Sincronizada a LP: passagens-aereas/curitiba.
+Texto no Select:   passagens-aereas/curitiba.
+------------------------------
+Sincronizada a LP: passagens-aereas/florianopolis.
+Texto no Select:   passagens-aereas/florianopolis.
+------------------------------
+Sincronizada a LP: passagens-aereas/fortaleza.
+Texto no Select:   passagens-aereas/fortaleza.
+------------------------------
+Sincronizada a LP: passagens-aereas/foz-do-iguacu.
+Texto no Select:   passagens-aereas/foz-do-iguacu.
+------------------------------
+Sincronizada a LP: passagens-aereas/maceio.
+Texto no Select:   passagens-aereas/maceio.
+------------------------------
+Sincronizada a LP: passagens-aereas/nacionais.
+Texto no Select:   passagens-aereas/nacionais.
+------------------------------
+Sincronizada a LP: passagens-aereas/porto-alegre.
+Texto no Select:   passagens-aereas/porto-alegre.
+------------------------------
+Sincronizada a LP: passagens-aereas/recife.
+Texto no Select:   passagens-aereas/recife.
+------------------------------
+Erro ao sincronizar a LP: passagens-aereas/rio-de-janeiro
+Sincronizada a LP: passagens-aereas/salvador.
+Texto no Select:   passagens-aereas/salvador.
+------------------------------
+Sincronizada a LP: passagens-aereas/sao-paulo.
+Texto no Select:   passagens-aereas/sao-paulo.
+------------------------------
+Sincronizada a LP: black-friday.
+Texto no Select:   black-friday.
+------------------------------
+Erro ao sincronizar a LP: linhas-aereas/internacionais
+Sincronizada a LP: linhas-aereas/nacionais.
+Texto no Select:   linhas-aereas/nacionais.
+------------------------------
+Sincronizada a LP: promocao.
+Texto no Select:   promocao.
+------------------------------
+Sincronizada a LP: passagens-nacionais-trechos.
+Texto no Select:   passagens-nacionais-trechos.
+------------------------------
+Sincronizada a LP: passagens-aereas/nacionais/nordeste/trechos.
+Texto no Select:   passagens-aereas/nacionais/nordeste/trechos.
+------------------------------
+Sincronizada a LP: passagens-aereas/nacionais/centro-oeste/trechos.
+Texto no Select:   passagens-aereas/nacionais/centro-oeste/trechos.
+------------------------------
+Sincronizada a LP: passagens-aereas/nacionais/norte/trechos.
+Texto no Select:   passagens-aereas/nacionais/norte/trechos.
+------------------------------
+Sincronizada a LP: passagens-aereas/nacionais/sul/trechos.
+Texto no Select:   passagens-aereas/nacionais/sul/trechos.
+------------------------------
+Sincronizada a LP: passagens-aereas/nacionais/sudeste/trechos.
+Texto no Select:   passagens-aereas/nacionais/sudeste/trechos.
+------------------------------
+FINAL DA SINCRONIZAÇÃO:   2020-11-23T11:44:23-03:00
+TOTAL DE LPs ATUALIZADAS: 62

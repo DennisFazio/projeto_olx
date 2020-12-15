@@ -1,0 +1,22 @@
+
+
+default: -p bdd  -p json
+
+#modo de execução
+bdd: --format pretty
+dot: --format progress
+
+#Ambiente pronto
+Ambiente_homolog: -p bdd  -p homolog -p json --publish-quiet
+Ambiente_Prod: -p bdd -p prod  -p json --publish-quiet
+
+#Qual site será testado
+prod: AMBIENTE=prod
+homolog: AMBIENTE=homolog
+
+
+#Relatórios
+html: --format html --out=logs/html/relatorio.html
+json: --format json --out=logs/json/report.json
+#Repetir teste caso falhe
+retry: --retry 1
