@@ -1,18 +1,20 @@
 # frozen_string_literal: true
 
 class Home < SitePrism::Page
-  element :email_crm, 'input[ng-model="loginCtrl.form.username"]'
-  element :senha_crm, 'input[ng-model="loginCtrl.form.password"]'
-  element :btn_login, 'button[type="submit"]'
+  element :input_search, "#searchtext"
+  element :btn_search, ".searchSubmitBtn"
+  element :btn_aceita_cookies, "#cookie-notice-ok-button"
 
-  set_url "/"
+  set_url ""
 
-  def login
-    @usuario_logado = USUARIO["Nomeusuario"]
-    @email_logado = USUARIO["username"]
-    senha = USUARIO["senha"]
-    email_crm.set @email_logado
-    senha_crm.set senha
-    btn_login.click
+  def busca_produto(produto)
+    input_search.set produto
+    btn_search.click
+  end
+
+  def aceita_cookie
+    if page.has_selector? "#cookie-notice-box", wait: 2 == true
+      btn_aceita_cookies.click
+    end
   end
 end

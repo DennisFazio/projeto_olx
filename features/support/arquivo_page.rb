@@ -8,10 +8,10 @@ class ArquivosOutput
     arquivo
   end
 
-  def registra_log_atualizacao(texto)
+  def registra_lista_produtos(texto)
     if $caminho_arquivo_log.nil?
       # Cria o nome do arquivo
-      nome_arquivo = "Log_atualizacao_#{Time.now.year}_#{Time.now.month}_#{Time.now.day}_#{Time.now.hour}"
+      nome_arquivo = "lista_produtos_#{Time.now.year}_#{Time.now.month}_#{Time.now.day}_#{Time.now.hour}"
       # cria o arquivo
       $caminho_arquivo_log = cria_arquivo("/Logs/txt/", nome_arquivo)
     end

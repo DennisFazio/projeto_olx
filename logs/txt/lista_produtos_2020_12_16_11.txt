@@ -1,0 +1,16 @@
+LISTA DE PRODUTOS
+----------------------------
+PRODUTO 1
+NOME: Funko Pop
+VALOR DO PRODUTO: R$ 80
+DATA E HORA DE PLUBLICAÇÃO: 13 dez
+15:29
+REGIÃO DO VENDEDOR: São Paulo, Jardim Helian - DDD 11
+----------------------------
+PRODUTO 1
+NOME: Funko Pop
+VALOR DO PRODUTO: R$ 120
+DATA E HORA DE PLUBLICAÇÃO: 11 dez
+19:15
+REGIÃO DO VENDEDOR: Ferraz de Vasconcelos, Jardim Seminário - DDD 11
+----------------------------

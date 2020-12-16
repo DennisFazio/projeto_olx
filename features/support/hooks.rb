@@ -76,7 +76,7 @@ at_exit do
       "Ambiente" => AMBIENTE.upcase,
       "Data de Geracao" => DateTime.now.strftime("%d/%m/%Y - %H:%M:%S"),
     }
-    config.color = "black"
+    config.color = "blue"
   end
   ReportBuilder.build_report
 end
