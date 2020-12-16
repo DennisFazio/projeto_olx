@@ -6,7 +6,6 @@ class SearchResult < SitePrism::Page
 
   def pega_os_x_primeiros_produtos(x)
     count = 0
-    propaganda = 0
     retorno = []
     list_products.each do |item|
       puts "Procurando o produto #{count + 1}"
@@ -20,10 +19,33 @@ class SearchResult < SitePrism::Page
         puts "Achei o produto #{count + 1}"
         count += 1
       end
-      propaganda += 1
 
       break if count >= x
     end
     retorno
+  end
+
+  def foco_no_produto(num_produto)
+    count = 0
+    list_products.each do |item|
+      if item.has_selector? 'div[class*="fnmrjs-6"]'
+        item.descricao.hover
+        count += 2
+      end
+
+      break if count >= num_produto
+    end
+  end
+
+  def click_no_produto(num_produto)
+    count = 0
+    list_products.each do |item|
+      if item.has_selector? 'div[class*="fnmrjs-6"]'
+        item.descricao.click
+        count += 1
+      end
+
+      break if count >= num_produto
+    end
   end
 end
