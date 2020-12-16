@@ -2,7 +2,6 @@
 
 require "tiny_tds"
 
-# Dados CMS
 class Db_Tabela
   def initialize
     servidor = "homolog"
