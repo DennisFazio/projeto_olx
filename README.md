@@ -14,4 +14,6 @@ cucumber -p Ambiente_Prod -t @primeiro_do_segundo
 * Os arquivos TXTs gerados como Logs, são armazenados na pasta:
 \logs\txt
 
+Deixei um modelo para conexão com banco de dados SQLServer(/features/sql) e um modelo para HTTParty (features/services)
+
 Qualquer dúvida fico a disposição
